@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Peaky Blinders",
+    "rating": 5,
+    "tags": ["acción", "favorita", "nueva"]
+  },
+  {
+    "title": "Ophennheimmer",
+    "rating": 4,
+    "tags": ["favorita", "nueva"]
+  },
+  {
+    "title": "No Respires",
+    "rating": 4,
+    "tags": ["suspenso", "miedo"]
+  },
+  {
+    "title": "Son Como Ninos",
+    "rating": 3,
+    "tags": ["comedia", "divertida"]
+  },
+  {
+    "title": "Magic",
+    "rating": 100,
+    "tags": ["magica", "divertida"]
+  }
+]
